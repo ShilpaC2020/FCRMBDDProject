@@ -23,6 +23,7 @@ public class Library
     protected static SeleniumUtility seleniumutility;
     protected static WebDriver driver;
     protected Logger log = Logger.getLogger(Library.class);
+    
 
     private Properties prop;
 
